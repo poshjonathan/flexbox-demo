@@ -1,0 +1,19 @@
+p {
+  font-family: Lato;
+}
+
+.box-main{
+background-color: pink;
+height: 100px
+}
+
+.box-one{
+
+background-color: red;
+font-style:bold;
+}
+
+.box-two{
+  color: white;
+  background-color: black;
+}
